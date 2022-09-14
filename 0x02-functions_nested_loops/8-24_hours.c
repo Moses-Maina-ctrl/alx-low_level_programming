@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * jack_bauer - func that prints every minute of the day of 
+ * jack_bauer - func that prints every minute of the day of
  * Return: 0
  */
 void jack_bauer(void)
