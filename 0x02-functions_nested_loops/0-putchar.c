@@ -13,11 +13,11 @@ int main(void)
 	int n = 0;
 	char c;
 
-	while (i <= 8)
+	while (n <= 8)
 	{
-		c = ch[i];
+		c = ch[n];
 		_putchar(c);
-		i++;
+		n++;
 	}
 	_putchar('\n');
 	return (0);
