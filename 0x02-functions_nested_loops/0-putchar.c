@@ -8,11 +8,11 @@
  */
 int main(void)
 {
-	char ch[7] = "_putchar";
-	int n = 0;
+	char ch[8] = "_putchar";
+	int n = 1;
 	char c;
 
-	while (n <= 7)
+	while (n <= 8)
 	{
 		c = ch[n];
 		_putchar(c);
